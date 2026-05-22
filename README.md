@@ -7,4 +7,4 @@ I'm a software engineer from Vietnam. I grew up in a small rice-farming village 
 
 - **Frontend**: React, TypeScript, Next.js for creating dynamic and responsive user interfaces.
 - **Backend**: Node.js, Express, and Python for building powerful and efficient server-side applications.
-- **Database**: PostgreSQL and MongoDB for managing and querying datasets.
+- **Database**: PostgreSQL, MySQL and MongoDB for managing and querying datasets.
